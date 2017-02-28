@@ -1,2 +1,3 @@
-# UFMG---Networks---Assignment-1
-C, Networks, Socket
+# Instructions
+
+Read the systems specification in the file SYSTEM_SPEC.pdf [portuguese only]
