@@ -1,3 +1,3 @@
 # Instructions
 
-Read the systems specification in the file SYSTEM_SPEC.pdf [portuguese only]
+Read the system specification in the file SYSTEM_SPEC.pdf [portuguese only]
